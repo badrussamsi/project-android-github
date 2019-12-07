@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Project Android Github</string>
+    <string name="show_progressbar">Show ProgressBar</string>
 </resources>
