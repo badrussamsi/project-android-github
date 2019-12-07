@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Project Android Github</string>
     <string name="show_progressbar">Show ProgressBar</string>
+    <string name="text_value">Cobain Project Git Android</string>
 </resources>
